@@ -6,7 +6,7 @@ The implementation of AMSGrad which is proposed by [On the Convergence of Adam a
 
 You can carry out the comparison experiment between Adam and AMSGrad as following command:
 ```
-THEANO_FLAGS=mode=FAST_RUN,device=cpu,floatX=float32 python adam_vs_amsgrad.py
+THEANO_FLAGS=mode=FAST_RUN,device=cpu,floatX=float32 python3 adam_vs_amsgrad.py
 ```
 
 
