@@ -1,4 +1,4 @@
-# amsgrad
+# AMSGrad
 
 ## Usage
 
